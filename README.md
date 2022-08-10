@@ -8,21 +8,17 @@
 * Upload the cleaned .csv files to Google Drive. 
 * In Google Sheets, import each .csv file into three separate sheets (as tabs) ("Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants") and group together the data based on year. There should be a color-coded system for each year in each sheet (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
 * My data is limited to the years (2013-2016) because those were the only years the data is available.
-## Analysis 1 --> Question: Which year had the highest WIC participation among postpartum women and pregnant women? Which had the lowest?
+## Analysis 1 ... Question: Which year had the highest WIC participation among postpartum women and pregnant women? Which had the lowest?
 * Step-By-Step Answer: 
-* 1. 
-* 2. 
-* 3. 
+*1. 
+*2. 
+*3. 
 
 * Which population group (e.g. postpartum women, pregnant women, etc.) participated more actively in WIC services between 2013 and 2016? Was any group exceptionally active? 
-## Analysis 2: 
-* Among pregnant women, which three state agencies or Indian tribal groups participated the most?
-## Analysis 3: 
-* Among postpartum women, which three state agencies or Indian tribal groups participated the most?
-## Analysis 4: 
-* What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
-## Analysis 5: 
-* What percentage of total WIC participants are postpartum women and pregnant women?
+## Analysis 2 ... Question: Among pregnant women, which three state agencies or Indian tribal groups participated the most?
+## Analysis 3 ... Question:Among postpartum women, which three state agencies or Indian tribal groups participated the most?
+## Analysis 4 ... Question: What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
+## Analysis 5 ... Question: What percentage of total WIC participants are postpartum women and pregnant women?
 
 # Story Pitch and Summary
 
