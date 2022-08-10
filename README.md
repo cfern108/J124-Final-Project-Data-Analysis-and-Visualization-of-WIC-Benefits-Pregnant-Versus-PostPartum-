@@ -13,7 +13,7 @@
 ## Analysis 1 ... Question: Which year saw the highest overall average WIC participation (across all State agencies/Indian tribal organizations) among pregnant women? Which year was the lowest?
 ### Step-By-Step Answer: 
 1. Create a pivot table utilizing the 'Pregnant_Woman_Participation' sheet.  
-2. Add 'State Agency or Indian Tribal Organization' a row. 
+2. Add 'State Agency or Indian Tribal Organization' to a row. 
 3. Order the row by 'Ascending.' 
 4. Sort the row by 'State Agency or Indian Tribal Organization.' 
 5. Show totals for the row. 
