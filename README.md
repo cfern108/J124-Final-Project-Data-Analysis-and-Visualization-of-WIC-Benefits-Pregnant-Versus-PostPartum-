@@ -13,19 +13,19 @@
 ## Analysis 1 ... Question: Which year saw the highest overall average WIC participation (across all State agencies/Indian tribal organizations) among pregnant women? Which year was the lowest?
 ### Step-By-Step Answer: 
 1. Create a pivot table utilizing the 'Pregnant_Woman_Participation' sheet.  
-- Add 'State Agency or Indian Tribal Organization' a row. 
-- Order the row by 'Ascending.' 
-- Sort the row by 'State Agency or Indian Tribal Organization.' 
-- Show totals for the row. 
-- Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. 
-- Categorize each value by SUM. 
-- Compare the grand totals for each column and identify which average participation total is the highest. 
+2. Add 'State Agency or Indian Tribal Organization' a row. 
+3. Order the row by 'Ascending.' 
+4. Sort the row by 'State Agency or Indian Tribal Organization.' 
+5. Show totals for the row. 
+6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. 
+7. Categorize each value by SUM. 
+8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 (<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="1287" alt="Screen Shot 2022-08-10 at 12 11 08 AM" src="https://user-images.githubusercontent.com/109619760/183837957-3e8f1f65-3654-4327-9468-11ce53e7995f.png">
 
 ### ANSWER KEY: 
-* The year with the highest overall average WIC participation among pregnant women is the 2013 (10/01/12 - 09/01/13). 
-* The year with the lowest overall average WIC participation among postpartum women is 2016 (10/01/15 - 09/01/16)
+* The year with the highest overall average WIC participation among pregnant women is 2013 (10/01/12 - 09/01/13). 
+* The year with the lowest overall average WIC participation among pregnant women is 2016 (10/01/15 - 09/01/16)
 
 
 * Which population group (e.g. postpartum women, pregnant women, etc.) participated more actively in WIC services between 2013 and 2016? Was any group exceptionally active? 
