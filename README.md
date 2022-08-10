@@ -20,7 +20,7 @@
 6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
 7. Categorize each value by SUM. 
 8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
-(<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
+<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
 
@@ -38,15 +38,16 @@
 6. Filter the pivot table to only show 'Average Participation 10/12 - 09/13.'
 7. Add 'Average Participation 10/12-09/13' to values. 
 8. Evaluate data for the highest average participation score. 
+<img width="758" alt="Screen Shot 2022-08-10 at 1 36 18 AM" src="https://user-images.githubusercontent.com/109619760/183855518-20a81cb2-45fb-4edb-8d3a-b69d29ba051a.png">
+
 9. Change the order of the row to 'ascending.'
 10. Evaluate data for the lowest average participation score. 
+<img width="752" alt="Screen Shot 2022-08-10 at 1 35 54 AM" src="https://user-images.githubusercontent.com/109619760/183855559-01c17f8e-f856-4e5b-b5fb-ac8b6957ec08.png">
 
 ### Answer Key:
 * The three state agencies or Indian tribal groups with the highest average participation scores for the year 2013 among postpartum women are 1) California (79,040 average participation), 2) Texas (49,277 average participation), and 3) Mountain Plains (44,945.33 average participation). 
 * The three state agencies or Indian tribal groups with the lowest average participation scores include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
 
-7. Categorize each value by SUM. 
-8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 ## Analysis 3 ... Question:Among pregnant women, which three state agencies or Indian tribal groups participated the most?
 ## Analysis 4 ... Question: What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
 ## Analysis 5 ... Question: What percentage of total WIC participants are postpartum women and pregnant women?
