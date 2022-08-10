@@ -6,7 +6,7 @@
 * Download the "Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants" .csv files for the years (2013-2016). 
 * There is a total of (12) .csv files that should be cleaned in OpenRefine. When cleaning, I only needed to remove a duplicate column with no data (which was an extra Texas) and format columns with dates to a (00/00/00) style.
 * Upload the cleaned .csv files to Google Drive. 
-* In Google Sheets, import each csv into three separate sheets ("Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants") and group together the data based on year. There should be a color-coded system for each year in each sheet (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
+* In Google Sheets, import each .csv file into three separate sheets (as tabs) ("Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants") and group together the data based on year. There should be a color-coded system for each year in each sheet (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
 * My data is limited to the years (2013-2016) because those were the only years the data is available.
 ## Analysis 1: 
 * Which year had the highest WIC participation among postpartum women and pregnant women? Which had the lowest?
