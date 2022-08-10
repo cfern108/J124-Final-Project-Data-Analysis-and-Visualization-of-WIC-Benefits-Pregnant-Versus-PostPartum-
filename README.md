@@ -15,8 +15,6 @@ The purpose of this data is to break down the participation rates of different c
 * Analysis 1: Which population group (e.g. postpartum women, pregnant women, etc.) participated more actively in WIC services between 2013 and 2016? Was any group exceptionally active? 
 * Analysis 2: Among pregnant women, which three state agencies or Indian tribal groups participated the most?
 * Analysis 3: Among postpartum women, which three state agencies or Indian tribal groups participated the most?
-* Analysis 4: 
+* Analysis 4: What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
 * Analysis 5:
 * 
-* 
-* What percentage of pregnant and postpartum women participate on average in WIC across all state agencies or Indian Tribal Organizations?
