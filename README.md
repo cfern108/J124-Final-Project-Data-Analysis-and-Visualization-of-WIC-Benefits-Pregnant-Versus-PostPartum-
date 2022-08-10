@@ -4,7 +4,7 @@
 # Data Analysis
 ## Notes:
 * Download the "Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants" .csv files for the years (2013-2016). 
-* There is a total of 12 .csv files that should be cleaned on OpenRefine. I only needed to remove duplicate column names with no data and rename columns containing dates to be more straightforward when cleaning all up the csv files in OpenRefine.
+* There is a total of 12 .csv files that should be cleaned in OpenRefine. I only needed to remove duplicate column names with no data (Texas) and rename columns with dates to a (00/00/00) format.
 * Upload data to Google Drive. 
 * In Google Sheets, import each csv into three separate sheets ("Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants") and group together the data based on year. There should be a color-coded system for each year in each sheet (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
 * My data is limited to the years (2013-2016) because that was the only data available.
