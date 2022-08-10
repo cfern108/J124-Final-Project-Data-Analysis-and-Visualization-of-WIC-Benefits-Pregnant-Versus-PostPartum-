@@ -1,4 +1,4 @@
-# J124 Final Project Data Analysis and Visualization of WIC Benefits (Concentration on Different Population Groups)
+# J124 Final Project Data Analysis and Visualization of WIC Participation Rates (Concentration on Pregnant and Postpartum Women)
 ### By Fernanda Frausto-Bonilla
 # Data Analysis 
 * Download the "Pregnant_Women_Participation" and "Postpartum_Women_Participation" csv(s) for the years (2013-2016). 
