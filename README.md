@@ -12,13 +12,20 @@
 - In other words, 'Average Participation 10/12-09/13' refers to the year 2013, 'Average Participation 10/13-09/14' refers to the year 2014, 'Average Participation 10/14-09/15' refers to the year 2015, and  'Average Participation 10/15-09/16' refers to the year 2016.
 ## Analysis 1 ... Question: Which year (across all State agencies/Indian tribal organizations) saw the highest overall average WIC participation among postpartum mothers and pregnant women? Which one was the least?
 ### Step-By-Step Answer: 
-1. Create a pivot table.
+1. Create a pivot table utilizing the 'Pregnant_Woman_Participation' sheet.  
 - Add 'State Agency or Indian Tribal Organization' to the row. 
-- Order the row by 'descending.' 
-- Sort the row by 'SUM of Average Participation.' 
+- Order the row by 'Ascending.' 
+- Sort the row by 'State Agency or Indian Tribal Organization.' 
 - Show totals for the row. 
 - Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. 
 - Categorize each value by SUM. 
+- Compare the grand totals for each column and identify which average participation total is the highest. 
+(<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
+<img width="1287" alt="Screen Shot 2022-08-10 at 12 11 08 AM" src="https://user-images.githubusercontent.com/109619760/183837957-3e8f1f65-3654-4327-9468-11ce53e7995f.png">
+
+### ANSWER KEY: 
+* The year with the highest overall average WIC participation among pregnant women is the 2013 (10/01/12 - 09/01/13). 
+* The year with the highest overall average WIC participation among postpartum women is 
 3. 
 4. sorted this columb as descending by the sum of "Average_Participation" for "Pregnant 
 *2. 
