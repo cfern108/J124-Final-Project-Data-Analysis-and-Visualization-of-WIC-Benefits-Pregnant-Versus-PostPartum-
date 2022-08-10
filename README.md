@@ -12,7 +12,7 @@
 - In other words, 'Average Participation 10/12-09/13' refers to the year 2013, 'Average Participation 10/13-09/14' refers to the year 2014, 'Average Participation 10/14-09/15' refers to the year 2015, and  'Average Participation 10/15-09/16' refers to the year 2016. For clarification purposes, the '00/00' format refers to month and year.
 ## Analysis 1 ... Question: Which year saw the highest overall average WIC participation (across all State agencies/Indian tribal organizations) among pregnant women? Which year was the lowest?
 ### Step-By-Step Answer: 
-1. Create a pivot table utilizing the 'Pregnant_Woman_Participation' sheet.  
+1. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.  
 2. Add 'State Agency or Indian Tribal Organization' to a row. 
 3. Order the row by 'Ascending.' 
 4. Sort the row by 'State Agency or Indian Tribal Organization.' 
