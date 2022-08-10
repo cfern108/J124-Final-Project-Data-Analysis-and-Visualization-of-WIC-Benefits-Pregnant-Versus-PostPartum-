@@ -1,12 +1,14 @@
 # J124 Final Project Data Analysis and Visualization of WIC Participation Rates (Concentration on Pregnant and Postpartum Women)
-### By Fernanda Frausto-Bonilla
-# Data Analysis 
-* Download the "Pregnant_Women_Participation" and "Postpartum_Women_Participation" csv(s) for the years (2013-2016). 
-* There is a total of 8 csv(s) that should be cleaned on OpenRefine, uploaded to Google Drive, and opened with Google Sheets. Note: I only needed to remove duplicate column names with no data and rename columns containing dates to be more straightforward when cleaning up the csv files in OpenRefine.
-* In Google Sheets, import each csv into two separate sheets ("Pregnant_Women_Participation" and "Postpartum_Women_Participation") group together the data. 
-* There should be a color-coded system for each year (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
-
-* My data is limited to the years (2013-2016) because that was the only data available that I could find that 
+## By Fernanda Frausto-Bonilla
+* This dataset was downloaded as (12) .csv files from [U.S. Public Assistance](https://www.kaggle.com/datasets/jpmiller/publicassistance?select=WICAgencies2013ytd/).
+# Data Analysis
+## Notes:
+* Download the "Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants" .csv files for the years (2013-2016). 
+* There is a total of 12 .csv files that should be cleaned on OpenRefine, uploaded to Google Drive, and opened with Google Sheets. 
+* I only needed to remove duplicate column names with no data and rename columns containing dates to be more straightforward when cleaning all up the csv files in OpenRefine.
+* In Google Sheets, import each csv into three separate sheets ("Pregnant_Women_Participation", "Postpartum_Women_Participation", and "Total_Number_of_Participants") and group together the data based on year. 
+* There should be a color-coded system for each year in each sheet (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). All years' data on annual participation are color-coded in pink.
+* My data is limited to the years (2013-2016) because that was the only data available.
 # Data Analysis Process
 * Analysis 1: Which population group (e.g. postpartum women, pregnant women, etc.) participated more actively in WIC services between 2013 and 2016? Was any group exceptionally active? 
 * Analysis 2: Among pregnant women, which three state agencies or Indian tribal groups participated the most?
