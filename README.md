@@ -17,7 +17,7 @@
 ## Analysis 4: 
 * What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
 ## Analysis 5: 
-* What percentage of total WIC participants are postpartum women?
+* What percentage of total WIC participants are postpartum women and pregnant women?
 
 # Story Pitch and Summary
 
