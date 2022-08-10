@@ -17,7 +17,7 @@
 3. Order the row by 'Ascending.' 
 4. Sort the row by 'State Agency or Indian Tribal Organization.' 
 5. Show totals for the row. 
-6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. 
+6. Add 'Average Participation 10/12-09/13', 'Average Participation 10/13-09/14', 'Average Participation 10/14-09/15', 'Average Participation 10/15-09/16' to values. Make sure to add these values in the correct year order.
 7. Categorize each value by SUM. 
 8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 (<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
