@@ -9,8 +9,8 @@ The purpose of this data is to break down the participation rates of different c
 # Pre-Data Analysis Process
 * Download the "Pregnant_Women_Participation" and "Postpartum_Women_Participation" csv(s) for the years (2013-2016). There is a total of 8 csv(s) that should be cleaned on OpenRefine, uploaded to Google Drive, and opened with Google Sheets. In Google Sheets, import each csv into two separate sheets ("Pregnant_Women_Participation" and "Postpartum_Women_Participation") and color code by year (e.g. green for 2013, purple for 2014, yellow for 2015, and blue for 2016). Data on annual participation per year is color coded as pink across all years. 
 ### Notes: 
-*I only needed to remove duplicate column names with no data and rename columns containing dates to be more straightforward when cleaning up the csv files.
-*My data is limited to the years (2013-2016) because that was the only data available that I could find that 
+* I only needed to remove duplicate column names with no data and rename columns containing dates to be more straightforward when cleaning up the csv files.
+* My data is limited to the years (2013-2016) because that was the only data available that I could find that 
 # Data Analysis Process
 * Analysis 1: Which population group (e.g. postpartum women, pregnant women, etc.) participated more actively in WIC services between 2013 and 2016? Was any group exceptionally active? 
 * Analysis 2: Among pregnant women, which three state agencies or Indian tribal groups participated the most?
