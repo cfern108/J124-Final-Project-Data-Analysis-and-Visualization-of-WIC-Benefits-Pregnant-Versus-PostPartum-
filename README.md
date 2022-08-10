@@ -22,7 +22,8 @@
 8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 (<img width="856" alt="analysis #1 pt 1" src="https://user-images.githubusercontent.com/109619760/183837637-dd75ee26-10bf-4de6-b46b-c2b60a902693.png">
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
-<img width="756" alt="Screen Shot 2022-08-10 at 12 25 11 AM" src="https://user-images.githubusercontent.com/109619760/183840586-e37b2e17-6d7e-4a48-9a73-1810f4a3565c.png">
+<img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
+
 
 
 ### ANSWER KEY: 
