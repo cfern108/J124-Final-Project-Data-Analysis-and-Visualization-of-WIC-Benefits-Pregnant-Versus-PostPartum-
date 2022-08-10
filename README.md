@@ -11,7 +11,7 @@
 * My data is limited to the years (2013-2016) because those were the only years the data is available. The time frame for each year begins on October 1st and ends on September 1st of the following year. 
 - In other words, 'Average Participation 10/12-09/13' refers to the year 2013, 'Average Participation 10/13-09/14' refers to the year 2014, 'Average Participation 10/14-09/15' refers to the year 2015, and  'Average Participation 10/15-09/16' refers to the year 2016. For clarification purposes, the '00/00' format refers to month and year.
 ## Analysis 1 ... Question: Which year saw the highest overall average WIC participation (across all State agencies/Indian tribal organizations) among pregnant women? Which year was the lowest?
-### Step-By-Step Answer: 
+### Step-By-Step Solution: 
 1. Create a pivot table utilizing the 'pregnant 2013-2016' sheet which reflects 'Pregnant_Woman_Participation' data from 2013-2016.  
 2. Add 'State Agency or Indian Tribal Organization' to a row. 
 3. Order the row by 'Ascending.' 
@@ -24,13 +24,29 @@
 <img width="757" alt="Screen Shot 2022-08-10 at 12 24 43 AM" src="https://user-images.githubusercontent.com/109619760/183840563-3fb4409c-c3f0-4685-94ec-0ddb308c24bb.png">
 <img width="753" alt="Screen Shot 2022-08-10 at 12 26 23 AM" src="https://user-images.githubusercontent.com/109619760/183840839-5c491bbb-d07d-4676-a788-760926e95286.png">
 
-
-
 ### ANSWER KEY: 
 * The year with the highest overall average WIC participation among pregnant women is 2013 (10/01/12 - 09/01/13). 
 * The year with the lowest overall average WIC participation among pregnant women is 2016 (10/01/15 - 09/01/16)
 
-## Analysis 2 ... Question: Among postpartum women, which three state agencies or Indian tribal groups participated the most?
+## Analysis 2 ... Question: Among postpartum women, which three state agencies or Indian tribal groups had the highest average participation for the year 2013? Which were had the lowest?
+### Step-By-Step Solution:
+1. Create a pivot table utilizing the 'postpartum 2013-2016' sheet which reflects 'Postpartum_Woman_Participation' data from 2013-2016.  
+2. Add 'State Agency or Indian Tribal Organization' to a row. 
+3. Order the row by 'Descending.' 
+4. Sort the row by 'SUM of Average Participation 10/12 - 09/13.' This is the average participation for the year 2013. 
+5. Unclick 'Show Totals' for the row. 
+6. Filter the pivot table to only show 'Average Participation 10/12 - 09/13.'
+7. Add 'Average Participation 10/12-09/13' to values. 
+8. Evaluate data for the highest average participation score. 
+9. Change the order of the row to 'ascending.'
+10. Evaluate data for the lowest average participation score. 
+
+### Answer Key:
+* The three state agencies or Indian tribal groups with the highest average participation scores for the year 2013 among postpartum women are 1) California (79,040 average participation), 2) Texas (49,277 average participation), and 3) Mountain Plains (44,945.33 average participation). 
+* The three state agencies or Indian tribal groups with the lowest average participation scores include 1) Pleasant Point, ME (2.83), 2) Indian Township, ME (3), and Seneca Nation, NY (5.42). 
+
+7. Categorize each value by SUM. 
+8. Compare the grand totals for each column and identify which average participation total is the highest and lowest. 
 ## Analysis 3 ... Question:Among pregnant women, which three state agencies or Indian tribal groups participated the most?
 ## Analysis 4 ... Question: What is the percent change across the years (2013-2016) in WIC participation across all groups and all state agencies or Indian Tribal Organizations?
 ## Analysis 5 ... Question: What percentage of total WIC participants are postpartum women and pregnant women?
